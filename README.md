@@ -23,3 +23,7 @@ TEXT
 ###### МММ
 ------
 
+```javascript
+const simple = "Я просто строка!";
+console.log(simple);
+``` 
